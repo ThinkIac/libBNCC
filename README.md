@@ -127,7 +127,3 @@ O objeto de dados enviado para a `libBNCC` precisa seguir rigidamente este padr�
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT.
-
-```
-
-```
